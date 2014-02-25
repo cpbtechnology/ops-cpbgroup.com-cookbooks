@@ -1,3 +1,6 @@
 [submodule "varnish"]
 	path = varnish
 	url = https://github.com/inviqa/chef-varnish
+[submodule "apt"]
+	path = apt
+	url = git@github.com:opscode-cookbooks/apt.git
