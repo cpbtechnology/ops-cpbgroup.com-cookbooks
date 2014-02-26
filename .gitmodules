@@ -3,4 +3,4 @@
 	url = https://github.com/inviqa/chef-varnish
 [submodule "apt"]
 	path = apt
-	url = https://github.com/cpbtechnology/ops-cpbgroup.com-cookbooks.git
+	url = https://github.com/opscode-cookbooks/apt.git
